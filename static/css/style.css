@@ -1,0 +1,9 @@
+body {
+    font-family: 'Press Start 2P', cursive;
+    transition: background-color 0.1s;
+    background-color: white;
+}
+
+canvas {
+    background-color: #111;
+}
